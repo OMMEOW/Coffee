@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Shop Tycoon</string>
+
+    <!-- Notification channels -->
+    <string name="notification_channel_offline_earnings">Offline Earnings</string>
+    <string name="notification_channel_offline_earnings_desc">Notifies you when your café has earned cash while you were away</string>
+    <string name="notification_channel_events">Café Events</string>
+    <string name="notification_channel_events_desc">Notifies you about seasonal and random events at your café</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CoffeeShopTycoon" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/coffee_espresso</item>
+        <item name="android:windowBackground">@color/coffee_espresso</item>
+    </style>
+
+    <style name="Theme.CoffeeShopTycoon.Splash">
+        <item name="android:windowBackground">@color/coffee_espresso</item>
+    </style>
+</resources>

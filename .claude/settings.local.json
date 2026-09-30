@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Read(//Users/oma/Library/Android/sdk/**)",
+      "Bash(gradle -version)",
+      "Bash(curl -sI --max-time 10 https://dl.google.com/dl/android/maven2/master-index.xml)",
+      "Bash(curl -sI --max-time 10 https://repo1.maven.org/maven2/)",
+      "Bash(gradle wrapper *)",
+      "Bash(./gradlew :app:assembleDebug --console=plain)",
+      "Bash(./gradlew :app:compileDebugKotlin --console=plain)"
+    ]
+  }
+}
